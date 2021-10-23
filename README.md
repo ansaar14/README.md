@@ -1,8 +1,8 @@
-Ansaar's Notes
+# Ansaar's Notes
 
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
 
 ## Summary 
 
-This repository contains all of the notes taken by Ansaar for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ansaar](https://github.com/ansaar14) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
+
